@@ -2,23 +2,21 @@
   background-color:white;
   box-shadow: none;
   border:none;
+  font-family: "Lato", sans-serif ;
 }
-a.right.item{
-  margin:0;
-}
-
-.ui.centered.imagetop.image{
-  height:170px;
-}
-.ui.borderless.middlemenu.menu{
+.ui.borderless.middlemenu.menu {
   box-shadow: none;
-  border:none;
+  border: none;
+  background: #efefef;
+  margin-bottom: 0;
+  font-family: "Lato", sans-serif ;
 }
 
 .footer-background {
-  background-color: #292929;
-  color:white;
+  background-color: white;
+  color:black;
   padding-top: 20px;
   padding-bottom: 20px;
+  font-family: "Lato", sans-serif ;
 
 }
